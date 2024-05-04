@@ -1,0 +1,55 @@
+<header>
+<div class="logo">Business Advertiser</div>
+<nav>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">Categories</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+</nav>
+</header>
+<section class="hero">
+<h1>Advertise Your Business Here!</h1>
+<p>Reach a wider audience and grow your customer base</p>
+<button>Get Started</button>
+</section>
+<section class="business-features">
+<h2>Featured Businesses</h2>
+<div class="business-card">
+<img src="#" alt="Business Logo">
+<h3>Business Name</h3>
+<p>Description</p>
+<button>Learn More</button>
+</div>
+<div class="business-card">
+<img src="#" alt="Business Logo">
+<h3>TechBrain Media</h3>
+<p>reach a wider range of audience and get your buainess to the top</p>
+<button>Learn More</button>
+</div>
+</section>
+<section class="testimonials">
+<h2>What Our Clients Say</h2>
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
+<p>- John Doe, Business Owner</p>
+<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
+<p>- Jane Smith, Entrepreneur</p>
+</section>
+<section class="call-to-action">
+<h2>Advertise Your Business Today!</h2>
+<p>Don't miss out on this opportunity to reach new customers</p>
+<button>Sign Up</button>
+</section>
+<footer>
+<div class="contact-info">
+<p>Phone: 09052214752</p>
+<p>Email: apehsunday193@gmail.com</p>
+<p>Address: 123 Adetola street</p>
+</div>
+<div class="social-media">
+<a href="#"><i class="fa Suny chris"></i></a>
+<a href="#"><i class="fa Apeh Sunday"></i></a>
+<a href="#"><i class="fa techbrain01"></i></a>
+</div>
+</footer>
